@@ -4,13 +4,14 @@ let multiplicacion=numero1*numero2
 let division=numwero1/numero2
 let numero1=389
 let numero2=434
-let nombrealumno
-let apellioalumno
-let edadalumno
-let precio1
-let precio2
-let precio3
-let total
-let comidafavorita
-let numerofavorito
+let nombrealumno='miguel'
+let apellioalumno='merentiel'
+let edadalumno='36'
+let precio1='1976'
+let precio2='2000'
+let precio3='2003'
+let total=precio1+precio2+precio3
+let comidafavorita='uvitas'
+let numerofavorito='16'
 let=paisargentina
+console.log(brasil)
